@@ -15,4 +15,5 @@ Clean air for Asia, la base de datos de informes electronicos de calidad de aire
 Sino se disponia de datos oficiales, se utilizaron valores de revistas revisadas por pares 
 
  Metodología:
- La base de datos incluye concentraciones medias anuales de PM10 PM 2,5 y NO2. Basadas en mediciones terrestres de estos contaminantes. Proporciona un promedio para una ciudad o pueblo en su conjunto, en lugar de estaciones indiciduales . La mayoria de las mediociones se realizaron entre 2010 y 2019.
+ 
+La base de datos incluye concentraciones medias anuales de PM10 PM 2,5 y NO2. Basadas en mediciones terrestres de estos contaminantes. Proporciona un promedio para una ciudad o pueblo en su conjunto, en lugar de estaciones indiciduales . La mayoria de las mediociones se realizaron entre 2010 y 2019.
