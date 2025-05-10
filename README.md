@@ -6,6 +6,7 @@ Website del database:
 (https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database)
 
 Fuente de datos:
+
 Las principales fuentes de datos fueron:
 Informes oficiales de paises enviados a la OMS a solicitud informes y citios web nacionales y subnacionales. Contiene mediciones de PM 2,5 o PM 10.
 Mediciones terrestres recopiladas en el marco del proyecto Global Burden of Disease. Para NO2 se obtuvieron mediciones terrestres recopiladas por la investigación de Larkin Et al. en 2017
