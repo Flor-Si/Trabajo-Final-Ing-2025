@@ -1,6 +1,7 @@
 # Trabajo-Final-Ing-2025
 
->Calidad de Aire
+**Calidad de Aire**
+
 Como base presentamos los datos de la OMS (Organización Mundual de la Salud) sobre la calidad del aire ambiente que recopila las mediciones terrestres de las concentraciones medias anuales de dióxido de nitrógeno (NO 2), material particulado de un diámetro igual o menor a 10 μm (PM 10 ) o igual o menor a 2,5 μm (PM 2,5 ), que tienen como objetivo representar un promedio para la ciudad o pueblo en su conjunto, en lugar de para estaciones individuales. Ambos grupos de contaminantes se originan principalmente de actividades humanas relacionadas con la combustión de combustibles fósiles. Para presentar datos de calidad del aire que representen la exposición humana, utilizamos principalmente mediciones urbanas, que comprenden el fondo urbano, las áreas residenciales, las áreas comerciales y mixtas o las áreas rurales y las áreas industriales cercanas a los asentamientos urbanos.
 
 Website del database:	
