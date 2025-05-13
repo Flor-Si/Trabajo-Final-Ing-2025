@@ -30,21 +30,27 @@ La base de datos incluye concentraciones medias anuales de PM10 PM 2,5 y NO2. Ba
 
 *Pasos que aplicamos en la limpieza del dataset*
 
-Agrupamiento de las columnas en bloques temáticos
-Renombre de columnas por nombres más explícitos
-Creación y cálculo de nuevas columnas
-Identificación del tipo de variables utilizadas en cada bloque temático
++Carga de base de datos
++Visualización de base de datos
++Analizamos las variables y vemos de que tipo son las mismas
++Cantidad de Filas y Columnas
++Estadistica descriptiva basica
++Nulos y eliminación de los mismos
++Función Discrep 
++Cantidad de registros
++Botsplot
++Matriz de correlación
++Histograma
+
+**Metodología**
+
+Análisis de base de datos mediante codigos de Python, Panda, Jupyter, Nampy
+
+**Herramientas**
+
++Google Colab
++Excel
++GitHub
 
 
-Fuente de datos:
-
-Las principales fuentes de datos fueron:
-Informes oficiales de paises enviados a la OMS a solicitud informes y citios web nacionales y subnacionales. Contiene mediciones de PM 2,5 o PM 10.
-Mediciones terrestres recopiladas en el marco del proyecto Global Burden of Disease. Para NO2 se obtuvieron mediciones terrestres recopiladas por la investigación de Larkin Et al. en 2017
-También se utilizaron mediciones reportadas por las siguientes redes regionales:
-Clean air for Asia, la base de datos de informes electronicos de calidad de aire de la agencia europea de mediambiente y el programa Air NOW y las embajadas y consulado delos EEUU.
-Sino se disponia de datos oficiales, se utilizaron valores de revistas revisadas por pares 
-
- Metodología:
- 
 
