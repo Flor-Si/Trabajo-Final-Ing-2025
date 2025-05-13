@@ -11,9 +11,9 @@ Crear un modelo predictivo para identificar las zonas con mayor contaminación a
 
 **Integrantes**
 
-Anne Kathrin, Huber
+-Anne Kathrin, Huber
 
-Maria Florencia, Siarri
+-Maria Florencia, Siarri
 
 **Website del database**
 
