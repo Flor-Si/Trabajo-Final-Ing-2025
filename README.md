@@ -23,7 +23,8 @@ La base de datos incluye concentraciones medias anuales de PM10 PM 2,5 y NO2. Ba
 
 **Estructura del Repositorio**
 
-README.md
++ README.md
+
 acondicionamiento.ipynb - archivo donde se realiza el renombre de columnas y limpieza general de los bloques temáticos
 analisis_exploratorio.ipynb
 ModelosClasificacion.ipynb - Regresión Logística, Random Forest y Support Vector Machine, para clasificar individuos con/sin hipertensión
