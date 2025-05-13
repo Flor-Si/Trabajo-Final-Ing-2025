@@ -47,9 +47,9 @@ Análisis de base de datos mediante codigos de Python, Panda, Jupyter, Nampy
 
 **Herramientas**
 
-+Google Colab
-+Excel
-+GitHub
++ Google Colab
++ Excel
++ GitHub
 
 
 
