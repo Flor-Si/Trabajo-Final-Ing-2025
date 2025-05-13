@@ -11,9 +11,9 @@ Crear un modelo predictivo para identificar las zonas con mayor contaminación a
 
 **Integrantes**
 
--Anne Kathrin, Huber
++Anne Kathrin, Huber
 
--Maria Florencia, Siarri
++Maria Florencia, Siarri
 
 **Website del database**
 
@@ -24,30 +24,16 @@ La base de datos incluye concentraciones medias anuales de PM10 PM 2,5 y NO2. Ba
 **Estructura del Repositorio**
 
 + README.md
++ Dataset (who_aap_2021_v9_11august2022 -final)
 
-acondicionamiento.ipynb - archivo donde se realiza el renombre de columnas y limpieza general de los bloques temáticos
-analisis_exploratorio.ipynb
-ModelosClasificacion.ipynb - Regresión Logística, Random Forest y Support Vector Machine, para clasificar individuos con/sin hipertensión
-AprendizajeNoSupervisado.ipynb - Reducción de dimensionalidad(análisis de componentes principales y análisis factorial de datos mixtos) y Clustering (Kmeans y DBSCAN)
-datasets - carpeta con los archivos que se utilizan y exportan en cada notebook del repositorio
-| friesgo_2018_raw.txt - archivo original
-| friesgo_2018.csv
-| friesgo_analisis.csv
-| friesgo.csv
-utils - carpeta con archivos de utilidad
-| codificaciones.py - diccionarios correspondientes a toda la codificacion usada en los datasets
-| funciones.py - funciones creadas para el uso comun en todo el analisis
+**Limpieza de Datos**
 
+*Pasos que aplicamos en la limpieza del dataset*
 
-
-
-
-
-
-
-
-
-
+Agrupamiento de las columnas en bloques temáticos
+Renombre de columnas por nombres más explícitos
+Creación y cálculo de nuevas columnas
+Identificación del tipo de variables utilizadas en cada bloque temático
 
 
 Fuente de datos:
